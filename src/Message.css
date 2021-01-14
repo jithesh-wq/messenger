@@ -1,0 +1,19 @@
+.message {
+  padding: 10;
+  margin: 10px;
+  width: fit-content;
+  border-radius: 50px;
+}
+.message_user {
+  margin-left: auto;
+  color: #30332e !important;
+  text-align: left !important;
+}
+.muc {
+  background-color: #02111b !important;
+  color: white !important;
+}
+.mugc {
+  background-color: #3f4045 !important;
+  color: white !important;
+}

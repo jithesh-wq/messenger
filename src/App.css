@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.appform {
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  background-color: darkgray;
+  width: 95%;
+  margin: 20px;
+  border-radius: 20px;
+}
+.appformcontrol {
+  display: flex !important;
+  flex-direction: row !important;
+}
+.appinput {
+  flex: 1;
+}
+.appiconbutton {
+  flex: 0;
+}
